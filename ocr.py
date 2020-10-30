@@ -74,9 +74,4 @@ second_line = data['ParsedResults'][0]['TextOverlay']['Lines'][1]['LineText']
 # MRZ CODE
 print(first_line)
 print(second_line)
-'''
-FROM X_N3UR0N TO THE AMAZON :D :D
-I HOPE I HELPED YOU
-HAVE A GOOGD DAY !!
 
-'''
